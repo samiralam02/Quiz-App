@@ -51,7 +51,7 @@ Here are some screenshots showcasing the application:
 ![Results Summary](screenshots/results-summary.png)
 
 ## 🎥 Demo Video
-Watch the live demo here: [Watch Demo](screenshots/quiz-demo-vide.mp4)
+Watch the live demo here: [Watch Demo](screenshots/quiz-app-demo-vide.mp4)
 
 ## 🔗 API Source
 The quiz data is fetched from the following API:
