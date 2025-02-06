@@ -66,8 +66,6 @@ Contributions are welcome! If you'd like to improve the quiz experience or add n
 4. **Push to your branch**: `git push origin feature-name`
 5. **Create a Pull Request**
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Acknowledgments
 - 💡 Inspired by various quiz applications that enhance learning through gamification.
